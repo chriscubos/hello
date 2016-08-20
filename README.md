@@ -7,12 +7,12 @@ chriscubos/hello
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://tldrlegal.com/license/mit-license)
 
 
-# HELLO PACKAGE
+## HELLO PACKAGE
 Hello, Chris Package
 
 ## INSTALLATION
 
-Add via composer
+Add via _composer_
 
     composer require chriscubos/hello
 
@@ -48,19 +48,19 @@ Run test with
 
 ## OFFICIAL DOCUMENTATION
 
-Documentation for the framework can be found on the [Hello documentation](https://github.com/chriscubos/hello/documentation.md).
+Documentation for the package can be found on the *Hello* [documentation](https://github.com/chriscubos/hello/docs/DOCUMENTATION.md).
 
 ## CONTRIBUTE
 
-Thank you for considering to contribute to hello! The guide can be found at [Hello contribute](https://github.com/chriscubos/hello/contribute.md).
+Do you want to contribute in this weird package *Hello* [contribute](https://github.com/chriscubos/hello/docs/CONTRIBUTE.md).
 
 ## LICENSE
 chriscubos/hello is an open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## CREDITS
-- [:white_check_mark:] Christopher John Cubos @chriscubos
-- [:white_check_mark:] Ehan :cloud: Cubos @ethanskycubos
-- [:white_check_mark:] Philippine Global Outsourcing @philippineglobaloutsourcing
+:white_check_mark: Christopher John Cubos @chriscubos
+:white_check_mark: Ehan :cloud: Cubos @ethanskycubos
+:white_check_mark: Philippine Global Outsourcing @philippineglobaloutsourcing
 
 ## SPECIAL THANKS
 [Philippines Outsourcing](http://philippineglobaloutsourcing.com/)
