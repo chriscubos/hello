@@ -14,6 +14,11 @@
 			"name": "Ethan Sky Cubos",
 			"email": "sky@philippineglobaloutsourcing.com",
 			"role": "Student"
+		},
+		{
+			"name": "Philippine Global Outsourcing",
+			"email": "philippineoutsourcing@gmail.com",
+			"role": "Sponsor"
 		}
 	],
 	"require": {
@@ -24,6 +29,5 @@
 		"psr-4": {
 			"Chriscubos\\Hello\\": "src/Chriscubos/Hello"
 		}
-	},
-	"minimum-stability": "dev"
+	}
 }
