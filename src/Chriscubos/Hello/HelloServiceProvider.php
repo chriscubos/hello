@@ -23,7 +23,7 @@ class HelloServiceProvider extends ServiceProvider
 	public function boot()
 	{
         $this->publishes([
-            __DIR__.'/../config/hello.php' => config_path('hello.php'),
+            __DIR__.'/../../../config/hello.php' => config_path('hello.php'),
         ], 'config');
 
 	}
