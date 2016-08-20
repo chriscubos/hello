@@ -1,0 +1,23 @@
+{
+    "name": "chriscubos/hello",
+    "description": "Hello Package Development Training by chriscubos",
+	"keywords": ["hello", "world"],
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher John Cubos",
+            "email": "chriscubos@outlook.com",
+            "role": "Teacher"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chriscubos\\Hello\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
