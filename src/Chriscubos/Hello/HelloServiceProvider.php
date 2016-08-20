@@ -1,4 +1,6 @@
-<?php namespace Chriscubos\Hello;
+<?php 
+
+namespace Chriscubos\Hello;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -35,7 +37,7 @@ class HelloServiceProvider extends ServiceProvider
 	{
 		$this->app->booting(function(){
 			$loader = \Illuminate\Foundation\AliasLoader::getInstance();
-			$loader->alias('Hello', 'Chriscubos\Hello\Facades\Hello');
+			$loader->alias('Hello', 'Chriscubos\Hello\Hello');
 		});
 	}
 

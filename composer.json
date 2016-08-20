@@ -3,21 +3,27 @@
     "description": "Hello Package Development Training by chriscubos",
 	"keywords": ["hello", "world"],
 	"license": "MIT",
+    "homepage": "https://github.com/chriscubos/hello",
     "authors": [
         {
             "name": "Christopher John Cubos",
-            "email": "chriscubos@outlook.com",
+            "email": "chris@philippineglobaloutsourcing.com",
             "role": "Teacher"
+        },
+        {
+            "name": "Ethan Sky Cubos",
+            "email": "sky@philippineglobaloutsourcing.com",
+            "role": "Student"
         }
     ],
     "require": {
-        "php": ">=5.4",
-        "illuminate/support": "5.1.*|5.2.*|5.3.*"
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*"
     },
     "autoload": {
         "psr-4": {
-            "Chriscubos\\Hello\\": "src/"
+            "Chriscubos\\Hello\\": "src/Chriscubos/Hello"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
