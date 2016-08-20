@@ -48,11 +48,11 @@ Run test with
 
 ## OFFICIAL DOCUMENTATION
 
-Documentation for the package can be found on the *Hello* [documentation](https://github.com/chriscubos/hello/docs/DOCUMENTATION.md).
+Documentation for the package can be found on the *Hello* [documentation](https://github.com/chriscubos/hello/blob/master/docs/DOCUMENTATION.md).
 
 ## CONTRIBUTE
 
-Do you want to contribute in this weird package *Hello* [contribute](https://github.com/chriscubos/hello/docs/CONTRIBUTE.md).
+Do you want to contribute in this weird package *Hello* [contribute](https://github.com/chriscubos/hello/blob/master/docs/CONTRIBUTE.md).
 
 ## LICENSE
 chriscubos/hello is an open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
