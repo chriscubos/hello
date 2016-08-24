@@ -10,6 +10,9 @@ chriscubos/hello
 ## HELLO PACKAGE
 Hello, Chris Package
 
+
+Hello there ... This is an awesome pull request ... Please do something about it 🇵🇭 sky
+
 ## INSTALLATION
 
 Add via _composer_
