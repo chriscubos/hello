@@ -8,7 +8,7 @@ chriscubos/hello
 
 
 ## HELLO PACKAGE
-Hello, Chris Package
+Hello Chris Package for a boilerplate Laravel Package
 
 I want to do a pull request on this part please approve -son
 
