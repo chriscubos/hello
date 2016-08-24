@@ -10,6 +10,8 @@ chriscubos/hello
 ## HELLO PACKAGE
 Hello, Chris Package
 
+I want to do a pull request on this part please approve -son
+
 ## INSTALLATION
 
 Add via _composer_
