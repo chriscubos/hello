@@ -10,8 +10,12 @@ chriscubos/hello
 ## HELLO PACKAGE
 Hello, Chris Package
 
+<<<<<<< HEAD
 
 Hello there ... This is an awesome pull request ... Please do something about it 🇵🇭 sky
+=======
+I want to do a pull request on this part please approve -son
+>>>>>>> master
 
 ## INSTALLATION
 
